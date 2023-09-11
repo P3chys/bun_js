@@ -1,4 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+#folders
+src/middleware
+
 
 # dependencies
 /node_modules
@@ -14,6 +17,7 @@
 
 # production
 /build
+bun.lockb
 
 # misc
 .DS_Store
